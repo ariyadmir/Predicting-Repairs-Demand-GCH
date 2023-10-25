@@ -2,11 +2,17 @@
 This project was undertaken and submitted in partial fulfilment of the requirements for Msc Data Science and Analytics at Cardiff University
 
 In summary, the objectives of the project are outlined below: 
+
 • Analyze and examine historical repair and maintenance data, and identify high and low-demand properties
+
 • Determine if repair demand for various types of repairs can be predicted on the basis of weather, time of year, property, and tenant data
+
 • Predict the demand for each repair priority and trade based on time of year and weather data
+
 • Predict the demand for each repair priority and trade based on property characteristics and tenant demographic data
+
 • Create a prototype tool that connects to our predictive models and displays our predicted repair demand for each type of repair, with the ultimate goal of potentially integrating it into GCH’s service framework.
+
 
 1. The first objective of predicting repair demand based on weather and time of year data was executed in two separate notebooks; one for creating models that predict demand for all types of repair 'priority' and the other for creating models that predict demand for all types of repair 'tasks' (or trades). 
 
